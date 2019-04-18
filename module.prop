@@ -3,5 +3,5 @@ name=Bromite Webview for Magisk
 version=v1.0
 versionCode=1
 author=rwxr-xr-xis
-description=Systemlessly replaces your webview with Bromite's
+description=Systemlessly replaces Android's native webview with Bromite's
 support=
