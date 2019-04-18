@@ -1,39 +1,31 @@
-<h1 align="center">Unity (Un)Installer Template</h1>
+## Bromite Webview for Magisk
+Systemlessly replaces Android's native webview with Bromite's.
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v4.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-March 31, 2019-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-</div>
+The SystemWebView package contains the core browser/rendering engine of Bromite and its same features.
 
-<div align="center">
-  <strong>Unity Installer allows 1 zip to work for multiple devices and root solutions. More details in the 
-    <a href="https://github.com/Zackptg5/Unity/wiki">wiki</a>.
-</div>
+## Warning 
+I'm not involved with Bromite's development
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/Unity">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/Unity-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612">
-      XDA
-    </a>
-<!--     <span> | </span>
-    <a href="">
-      Discord
-    </a> -->
-  </h3>
-</div>
+## Installation
+1. Install the module through Magisk Manager or TWRP
+2. Reboot
+3. Get the latest release based on your system arch from https://www.bromite.org/system_web_view or from the module's zip
+4. Install the apk as a normal app
 
-## Compatibility
-- Magisk 18.0 +
-- All other root or rootless solutions (init.d support for boot scripts is required if not using Magisk or SuperSU. Try [Init.d Injector](https://forum.xda-developers.com/android/software-hacking/mod-universal-init-d-injector-wip-t3692105))
+## Removal
+1. Uninstall the module through Magisk Manager or flash it again on TWRP 
+2. Reboot
+3. Uninstall Bromite System WebView from the system settings
+
+## Usefull links
+[Bromie GitHub page](https://github.com/bromite/bromite)
+
+[Bromite Webview installation wiki](https://github.com/bromite/bromite/wiki/Installing-SystemWebView)
+
+[Unity Template](https://github.com/Zackptg5/Unity)
+
+## Changelog
+#### 1.1
+Reopened the repo
+
+Updated to Unity 4.0
