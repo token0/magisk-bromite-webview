@@ -26,11 +26,11 @@ comp_check
 # Uncomment DYNLIB if you want libs installed to vendor for oreo+ and system for anything older
 # Uncomment SYSOVER if you want the mod to always be installed to system (even on magisk) - note that this can still be set to true by the user by adding 'sysover' to the zipname
 # Uncomment DEBUG if you want full debug logs (saved to /sdcard in magisk manager and the zip directory in twrp) - note that this can still be set to true by the user by adding 'debug' to the zipname
-#MINAPI=21
+MINAPI=21
 #MAXAPI=25
 #DYNLIB=true
 #SYSOVER=true
-#DEBUG=true
+DEBUG=true
 
 # Uncomment if you do *NOT* want Magisk to mount any files for you. Most modules would NOT want to set this flag to true
 # This is obviously irrelevant for system installs. This will be set to true automatically if your module has no files in system

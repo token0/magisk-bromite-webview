@@ -1,7 +1,7 @@
-id=UnityTemplate
-name=Unity (Un)Installer Template
-version=v4.0
-versionCode=27
-author=ahrion, zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612
+id=bromite-webview
+name=Bromite Webview for Magisk
+version=v1.0
+versionCode=1
+author=rwxr-xr-xis
+description=Systemlessly replaces your webview with Bromite's
+support=
