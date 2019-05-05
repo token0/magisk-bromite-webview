@@ -25,7 +25,11 @@ I'm not involved with Bromite's development
 [Unity Template](https://github.com/Zackptg5/Unity)
 
 ## Changelog
-#### 1.1
+#### 1.0
 Reopened the repo
 
 Updated to Unity 4.0
+#### 1.1
+Updated to Unity 4.1
+
+Updated apks to v74.0.3729.122
