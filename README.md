@@ -11,6 +11,7 @@ I'm not involved with Bromite's development
 2. Reboot
 3. Get the latest release based on your system arch from https://www.bromite.org/system_web_view or from the module's zip
 4. Install the apk as a normal app
+
 (Optional) 5.Disable the module and reboot
 
 ## Removal
