@@ -11,6 +11,7 @@ I'm not involved with Bromite's development
 2. Reboot
 3. Get the latest release based on your system arch from https://www.bromite.org/system_web_view or from the module's zip
 4. Install the apk as a normal app
+(Optional) 5.Disable the module and reboot
 
 ## Removal
 1. Uninstall the module through Magisk Manager or flash it again on TWRP 
@@ -24,12 +25,3 @@ I'm not involved with Bromite's development
 
 [Unity Template](https://github.com/Zackptg5/Unity)
 
-## Changelog
-#### 1.0
-Reopened the repo
-
-Updated to Unity 4.0
-#### 1.1
-Updated to Unity 4.1
-
-Updated apks to v74.0.3729.122
